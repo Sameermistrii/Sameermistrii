@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🤝Hii , I'm Sameer Mistri<br>🔭 I’m currently working on : Open Source Music Platform "UniSin"<br>⚡ Fun fact: I test ideas in real life instead of just planning
+ 🤝Hii , I'm Sameer Mistri<br>🔭 I’m currently working on : Open Source Automation Platform "UniSin"<br>⚡ Fun fact: I test ideas in real life instead of just planning
 
 
 ## 🌐 Socials:
